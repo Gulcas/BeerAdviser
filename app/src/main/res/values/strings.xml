@@ -2,4 +2,10 @@
     <string name="app_name">BeerAdviser</string>
     <string name="find_beer">Odszukaj piwo!</string>
     <string name="brands">Marka</string>
+    <string-array name="beer_color">
+        <item>jasne</item>
+        <item>bursztynowe</item>
+        <item>brązowe</item>
+        <item>ciemne</item>
+    </string-array>
 </resources>
